@@ -3,7 +3,8 @@
 ## Steps to run this application
 Step 1: `git clone https://github.com/jerrypan90/calculator_perl.git`<br/>
 Step 2: `perl index.pl` from the command line<br/>
-Step 3: Follow the command line instructions
+Step 3: Follow the command line instructions<br/>
+Test Step: `perl test.pl` from the command line
 
 ## Functionality
 This application consist of the following features:
